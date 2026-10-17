@@ -71,7 +71,7 @@
 
 1. 用 VS Code 打开本项目，安装 **Live Server** 插件；
 2. 右键 `index.html` → `Open with Live Server`；
-3. 或直接用 Chrome 打开 `index.html` 预览（注意 CSS 引用 `css/index.css` 及 `images/`、`uploads/` 相对路径，需保持目录结构完整）。
+3. 或直接用 Chrome 打开 `index.html` 预览（注意 CSS 引用 `base.css/index.css` 及 `images/`、`uploads/` 相对路径，需保持目录结构完整）。
 
 ## 六、实验总结
 
